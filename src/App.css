@@ -1,0 +1,12 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #dad8d8;
+}
+.MuiTextField-root{
+  margin: 0;
+}

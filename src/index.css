@@ -1,0 +1,40 @@
+.plus-img{
+  max-width: 100%;
+  height: 20px;
+  cursor: pointer;
+}
+#root{
+  width: 300px;
+  height: 400px;
+  box-shadow: 0 0 5px 0 grey;
+  background: #fff;
+}
+.header{
+  height: 50px;
+  background: #17bed1;
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+  color: #fff;
+}
+.section{
+  padding:0 20px;
+}
+.close-icon{
+  width: 10px;
+  cursor: pointer;
+}
+.check-list{
+  margin-left: 20px;
+}
+.list-container{
+  height: 220px;
+  overflow-y: auto;
+}
+.submit-btn{
+  margin-left: 10px;
+    position: relative;
+    top: 35px;
+    background: transparent;
+    border: none;
+}
